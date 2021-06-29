@@ -4,5 +4,5 @@
 
 又能愉快地
 ```
-curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
+curl -O https://raw.githubusercontent.com/Hamiltonxx/trojan-/main/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
 ```
